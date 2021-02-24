@@ -1,7 +1,9 @@
 # IanDeckert.github.io
 =
 
-Hello and welcome to the GitHub repository for the minor Datavisualisation.
+Hello and welcome to my GitHub repository for the minor Datavisualisation.
+
+![een foto](img/1590664255034.jpg)
 
 ## Other links
 

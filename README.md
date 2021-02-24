@@ -1,5 +1,4 @@
-# IanDeckert.github.io
-=
+# My first repo
 
 Hello and welcome to my GitHub repository for the minor Datavisualisation.
 
